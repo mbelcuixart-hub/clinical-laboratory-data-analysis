@@ -57,3 +57,17 @@ No real patient information was used.
 
 This project does not provide clinical diagnoses
 or validated medical interpretations.
+
+## Data Visualizations
+
+### Data Quality Assessment
+![Data Quality Assessment](data_quality_issues.png)
+
+### Clinical Data Dashboard
+![Clinical Data Dashboard](clinical_data_dashboard.png)
+
+### Laboratory Parameter Distributions
+![Laboratory Distributions](laboratory_distributions.png)
+
+### Correlation Analysis
+![Correlation Heatmap](laboratory_correlation_heatmap.png)
